@@ -1,0 +1,7 @@
+WARNING:
+
+stepCount.c has a fetal logic error, we can't get correct answer through this program.
+
+steps.txt is correct answers to the integers in Numbers.txt
+steps.1.txt is the result of stepCount.c
+You can see the differences between these results.
